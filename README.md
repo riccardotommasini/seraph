@@ -1,4 +1,4 @@
-# Seraph query parser
+# Seraph Engined and Web User Interface
 
 An ANTLR4 parser for Seraph continuous graph queries.
 
