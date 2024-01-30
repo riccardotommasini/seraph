@@ -4,6 +4,8 @@ An ANTLR4 parser for Seraph continuous graph queries.
 
 This project is still under development.
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/embed/xvFZjo5PgG0?si=du3iusPB5opZhPQ1))
+
 ## Syntax
 The syntax of Seraph extends the syntax of Cypher 9 as follows:
 
