@@ -1,10 +1,16 @@
-# Seraph Engined and Web User Interface
+# SERAPH DEMOSTRATION WEBSIDE
+
+{% include youtube.html id="nr7TwK-NjgQ" %}
+
+# A Bit of Documentation
+
+## Seraph Engined and Web User Interface
 
 An ANTLR4 parser for Seraph continuous graph queries.
 
 This project is still under development.
 
-{% include youtube.html id="nr7TwK-NjgQ" %}
+
 
 ## Syntax
 The syntax of Seraph extends the syntax of Cypher 9 as follows:
