@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Seraph Demo 
-logo: /assets/img/logo.png
+logo: /images/logo.png
 description: This Website presents Seraph Language and a demonstration based on RSP4J and Neo4J In Memory
 show_downloads: false
 google_analytics:
