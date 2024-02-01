@@ -1,8 +1,12 @@
 # SERAPH DEMONSTRATION WEBSITE
 
+
 {% include youtube.html id="nr7TwK-NjgQ" %}
 
+
+
 # A Bit of Documentation
+
 
 ## Query Model
 
