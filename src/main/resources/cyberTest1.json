@@ -1,0 +1,56 @@
+{
+  "timestamp": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "event_id": 1
+      }
+    },
+    {
+      "id": 2,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "location_id": 1
+      }
+    },
+    {
+      "id": 5,
+      "labels": [
+        "Suspect"
+      ],
+      "properties": {
+        "person_id": 5
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": 5,
+      "to": 1,
+      "labels": [
+        "PartyTo"
+      ],
+      "properties": {
+        "permitted": "compliant",
+        "val_time": 52800000
+      }
+    },
+    {
+      "from": 5,
+      "to": 2,
+      "labels": [
+        "NeatTo"
+      ],
+      "properties": {
+        "permitted": "compliant",
+        "val_time": 52800000
+      }
+    }
+  ]
+}
